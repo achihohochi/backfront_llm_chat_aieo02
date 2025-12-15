@@ -1,5 +1,4 @@
 [project]
-<<<<<<< HEAD
 name = "sample-backend-scripts"
 version = "0.1.0"
 description = "Add your description here"
@@ -13,7 +12,6 @@ dependencies = [
     "python-dotenv>=1.0.1",
     "python-multipart>=0.0.9",
     "pydantic>=2.0.0",
-=======
 name = "treat-or-hell"
 version = "0.1.0"
 description = "A FastAPI app that lets you chat with St. Nicholas, an Angel, or a Devil using the OpenAI Chat Completions API"
@@ -27,5 +25,4 @@ dependencies = [
     "python-multipart>=0.0.9",
     "pydantic>=2.0.0",
     "pypdf2>=3.0.1",
->>>>>>> 5c683b1 (added images)
 ]
